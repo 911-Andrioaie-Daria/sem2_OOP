@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Domain/offer.h
+
+../Dynamic array/dynamic_array.h
+Domain/offer.h
+../Dynamic array/Domain/offer.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a23-911-Andrioaie-Daria/Repository/repository.c
+repository.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a23-911-Andrioaie-Daria/Repository/repository.h
+stdlib.h
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a23-911-Andrioaie-Daria/Repository/repository.h
+Dynamic array/dynamic_array.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a23-911-Andrioaie-Daria/Repository/Dynamic array/dynamic_array.h
+
