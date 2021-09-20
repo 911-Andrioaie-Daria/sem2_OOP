@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a45_911_Andrioaie_Daria"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_911_Andrioaie_Daria">
+				<Option output="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug/a45_911_Andrioaie_Daria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Domain"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Dynamic_array"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Repository"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Validations"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Administator_service"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/User_service"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/UI"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 a45_911_Andrioaie_Daria"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_911_Andrioaie_Daria/fast">
+				<Option output="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug/a45_911_Andrioaie_Daria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Domain"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Dynamic_array"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Repository"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Validations"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Administator_service"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/User_service"/>
+					<Add directory="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/UI"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 a45_911_Andrioaie_Daria/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\daria\Documents\study\facultate\anul 1\semestrul 2\OOP\a67-911-Andrioaie-Daria\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Administator_service/AdminService.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Administator_service/AdminService.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Domain/Dog.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Domain/Dog.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Dynamic_array/DynamicArray.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Repository/DogRepository.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Repository/DogRepository.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/AdminServiceTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/AdminServiceTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/DomainTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/DomainTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/DynamicArrayTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/DynamicArrayTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/RepositoryTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/RepositoryTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/TestAll.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/TestAll.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/UserServiceTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/UserServiceTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/ValidatorTests.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Tests/ValidatorTests.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/UI/ConsoleUI.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/UI/ConsoleUI.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/User_service/UserService.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/User_service/UserService.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Validations/DogValidator.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/Validations/DogValidator.h">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/main.cpp">
+			<Option target="a45_911_Andrioaie_Daria"/>
+		</Unit>
+		<Unit filename="C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/a67-911-Andrioaie-Daria/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
