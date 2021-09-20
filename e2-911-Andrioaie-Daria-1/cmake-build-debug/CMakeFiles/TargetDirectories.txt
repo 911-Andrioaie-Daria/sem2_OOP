@@ -1,0 +1,4 @@
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/e2-911-Andrioaie-Daria-1/cmake-build-debug/CMakeFiles/e2_911_Andrioaie_Daria_1.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/e2-911-Andrioaie-Daria-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/e2-911-Andrioaie-Daria-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/OOP/e2-911-Andrioaie-Daria-1/cmake-build-debug/CMakeFiles/e2_911_Andrioaie_Daria_1_autogen.dir
